@@ -1,2 +1,2 @@
-# linuxMint
-Conkys for linux Mint Serena
+# Coky
+Conky for my Ubuntu 
